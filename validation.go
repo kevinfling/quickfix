@@ -1,7 +1,7 @@
 package quickfix
 
 import (
-	"github.com/quickfixgo/quickfix/datadictionary"
+	"github.com/kevinfling/quickfix/datadictionary"
 )
 
 type validator interface {
